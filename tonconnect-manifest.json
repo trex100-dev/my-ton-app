@@ -1,9 +1,5 @@
 {
-  "name": "Кейс-Рулетка",
-  "icon": "https://i.postimg.cc/m2tH2cst/2025-06-29-024253.png",
-  "url": "https://capspin.ru",
-  "description": "Рулетка на TON. 1 TON = 1 кепка",
-  "version": "1.0.0",
-  "manifest_url": "https://raw.githubusercontent.com/trex100-dev/my-ton-app/main/tonconnect-manifest.json",
-  "bridgeUrl": "https://bridge.tonapi.io/bridge"
+  "name": "Cap Spin",
+  "url": "https://app.tonkeeper.com/",
+  "iconUrl": "https://i.postimg.cc/m2tH2cst/2025-06-29-024253.png"
 }
